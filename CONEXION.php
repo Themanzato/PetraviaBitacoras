@@ -1,8 +1,8 @@
 <?php
-$servername = "bitacora-digital.chiqsu2wgpks.us-east-2.rds.amazonaws.com";
-$username = "admin";
-$password = "Aymimadreelbicho*7";
-$dbname = "bitacorasMantenimientoOP2";
+$servername = "";
+$username = "";
+$password = "";
+$dbname = "";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
